@@ -1,0 +1,2 @@
+This code calculates <x>_t for Anhm oscillator as mentioned in Fig.11 of JPCA, 2022, 126, 6359,
+by filinov filering the exact DVR calculation

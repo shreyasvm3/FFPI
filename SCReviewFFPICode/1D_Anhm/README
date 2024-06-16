@@ -1,0 +1,3 @@
+This folder contains fortran90 code for calculating <x>(t) for the 1D Anhm oscillator 
+mentioned in Fig. 12 of J.Phys.Chem.A 2022, 126,6359 by calculating FB (or YZ) trajectories.
+Data used to plot the figure is in a separate folder.

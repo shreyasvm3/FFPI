@@ -1,0 +1,10 @@
+Particle mass
+1.d0
+DVR x grid: Rmin, Rmax, NR
+-3.5    3.5     22
+Time grid: Total Time, Length of time slice (Eps)
+50 	0.2d0
+System parameters : qI, pI, Width
+1.0	0.0	1.414
+Filinov parameters: cFil, dFil
+input-fild-4    input-fild-4
